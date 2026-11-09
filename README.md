@@ -1,2 +1,4 @@
-# gachon
-2026년도 가천대 반도체 설계학과
+# Welcome to Semiconductor Hell sibal!!!!!!!!
+
+반도체 지옥에 온걸 환영한다 시발!!!!!!!!!!
+
